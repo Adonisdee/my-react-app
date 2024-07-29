@@ -37,7 +37,7 @@ function App() {
           </Routes>
         </Content>
         <Footer className="bg-gray-800 text-white text-center py-4">
-          © 2024 Your Company. All rights reserved.
+          © 2024 Emperor Labs. All rights reserved.
         </Footer>
       </Layout>
     </Router>
