@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Bergamot Essential Oil",
+    "sub": "Apricot - 100ml",
+    "price": "₦18,000.00",
+    "link": "/shop/essential-oils/bergamot-oil",
+    "image": "/src/assets/bergamot-oil.jpg"
+  },
+  {
+    "name": "Carrot Seed Essential Oil",
+    "sub": "Apricot - 100ml",
+    "price": "₦18,000.00",
+    "link": "/shop/essential-oils/carrot-oil",
+    "image": "/src/assets/carrot-oil.jpg"
+  },
+  {
+    "name": "Cedarwood Essential Oil",
+    "sub": "Apricot - 100ml",
+    "price": "₦18,000.00",
+    "link": "/shop/essential-oils/carrot-oil",
+    "image": "/src/assets/carrot-oil.jpg"
+  },
+  {
+    "name": "Carrot Seed Essential Oil",
+    "sub": "Apricot - 100ml",
+    "price": "₦18,000.00",
+    "link": "/shop/essential-oils/carrot-oil",
+    "image": "/src/assets/carrot-oil.jpg"
+  },
+  {
+    "name": "Cedarwood Essential Oil",
+    "sub": "Apricot - 100ml",
+    "price": "₦18,000.00",
+    "link": "/shop/essential-oils/carrot-oil",
+    "image": "/src/assets/carrot-oil.jpg"
+  }
+]

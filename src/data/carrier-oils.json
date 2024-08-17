@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Argan Oil",
+    "sub": "Pure Argan Oil - 100ml",
+    "price": "₦40,000.00",
+    "link": "/shop/carrier-oils/argan-oil",
+    "image": "/public/Argan Oil.jpg" 
+  },
+  {
+    "name": "Apricot Oil",
+    "sub": "Apricot - 100ml",
+    "price": "₦18,000.00",
+    "link": "/shop/carrier-oils/apricot-oil",
+    "image": "/src/assets/apricot-oil.jpg"
+  },
+  {
+    "name": "Avocado Oil",
+    "sub": "Apricot - 100ml",
+    "price": "₦18,000.00",
+    "link": "/shop/carrier-oils/apricot-oil",
+    "image": "/src/assets/apricot-oil.jpg"
+  },
+  {
+    "name": "Argan Oil",
+    "sub": "Pure Argan Oil - 100ml",
+    "price": "₦40,000.00",
+    "link": "/shop/carrier-oils/argan-oil",
+    "image": "/src/assets/argan-oil.jpg"
+  },
+  {
+    "name": "Avoo Oil",
+    "sub": "Apricot - 100ml",
+    "price": "₦18,000.00",
+    "link": "/shop/carrier-oils/apricot-oil",
+    "image": "/src/assets/apricot-oil.jpg"
+  }
+]
