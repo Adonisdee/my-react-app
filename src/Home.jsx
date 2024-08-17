@@ -21,7 +21,7 @@ const carouselItems = [
   },
   {
     image: raw3, // Beautiful skin
-    caption: 'Achieve Beautiful, Healthy Skin',
+    caption: 'Achieve Beautiful and Healthy Skin',
   },
 ];
 
